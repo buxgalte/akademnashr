@@ -1,5 +1,13 @@
 @import url(./fonts.css);
 
+:root{
+    --orange:#ff7500;
+    --white:#fff;
+    --dark-blue:#252400;
+    --roboto:"Roboto";
+    --robotoCondessed:"RobotoCondessed";
+}
+
 *{
     margin:0;
     padding:0;
